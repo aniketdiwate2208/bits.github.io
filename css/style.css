@@ -1,0 +1,15 @@
+h1{
+ font-family: 'Sacramento', cursive; 
+ text-align: center; 
+ font-size: 50px
+}
+.card-title{
+    text-align: center; 
+    font-family: 'Permanent Marker', cursive ; 
+    font-size: 25px;
+}
+.card-text{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive; 
+    font-size: 20px;
+}
